@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description - program line followed by a new line, to the standard error
- * return :0 always(success)
+ * return:0 always(success)
  */
 int main(void)
 {
