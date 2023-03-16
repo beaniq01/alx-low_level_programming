@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * 
- * Description - A program that prints size of various types
- * @parameter: describe the parameter
- * Return  : Always 0 (Success)
+ * Description - A program that prints size of various types in a computer 
+ * Return: 0 always (Success)
  */
 int main(void)
 {
